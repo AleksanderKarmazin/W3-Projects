@@ -1,0 +1,86 @@
+/*  ===========================
+    Colors
+    ===========================
+*/
+:root {
+    --default: #e0494e;
+    --default2: #e3e616;
+    --blue: #99bef1;
+    --blue2: #cec7fb;
+    --lightGreen: #67c56e;
+    --lightGreen2: #08aa12;
+    --yellow: #f89d36;
+    --yellow2: #db7807;
+    --purple: #662e9b;
+    --purple2: #4c0094;
+    --black1: #212529;
+    --black2: #3c4858;
+    --grey: #8492a6;
+    --backgroundColor: #eaedf2;
+    --white: #fff;
+  }
+
+  /* ====================
+      Reset
+     ====================
+  */
+
+  *,
+  *::after,
+  *::before {
+    padding: 0;
+    margin: 0;
+  }
+  
+  html {
+    box-sizing: border-box;
+  }
+  
+  body,
+  input,
+  textarea {
+    font-size: 10px;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    color: var(--black1);
+    background-color: var(--white);
+    line-height: 1.6;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-weight: 500;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  li,
+  ul {
+    list-style: none;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+
+  button{
+    padding: 11px 48px 10px 48px;
+    min-height: 65px;
+    min-width: 250px;
+    background-color: var(--blue);
+    font-size: 22px;
+    color: var(--white);
+   }
+  
+
+.container {
+  max-width: 70%;
+  margin: 0 auto;
+}
+

@@ -1,0 +1,39 @@
+.navbar {
+    background-color: var(--default2);
+    height: 35px;
+}
+
+.navbar__content{
+    display: flex;
+    justify-content: space-between;
+    height: 35px;
+}
+
+.navbar__logo-link {
+    /* background-color: var(--blue); */
+    display: flex;
+    align-items: center;
+    
+}
+
+.navbar__logo-link a{
+    /* background-color: var(--blue); */
+    margin: 0px 70px;
+}
+
+
+.navbar__links {
+    background-color: var(--blue);
+    display: flex;
+    align-items: center;
+}
+
+.navbar__link-item:hover{
+    height: 35px;
+    background-color: var(--white);
+    display: flex;
+    align-items: center;
+}
+.navbar__links a{
+    margin: 0px 70px;
+}

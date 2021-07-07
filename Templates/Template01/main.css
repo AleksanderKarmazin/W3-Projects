@@ -1,0 +1,9 @@
+.main {
+    background-color: var(--lightGreen);
+    display:flex;
+
+} 
+.main-content {
+    background-color: var(--yellow);
+    padding: 20px;
+}
