@@ -3,3 +3,196 @@
     max-width: 30%;
     padding: 20px;
 } 
+
+
+
+.sidebar-about-img {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.sidebar-about-img__text {}
+.sidebar-about-img__text_top-left {
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-about-img__text_top-center {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-about-img__text_top-right {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-about-img__text_center-left {
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-about-img__text_center-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-about-img__text_center-right {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translate(-50%, -50%);
+} 
+.sidebar-about-img__text_bottom-right {
+    position: absolute;
+    bottom: 5%;
+    right: 0%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-about-img__text_bottom-center {
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-about-img__text_bottom-left {
+    position: absolute;
+    bottom: 5%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+
+
+.sidebar-gellary-img {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.sidebar-gellary-img__text {}
+.sidebar-gellary-img__text_top-left {    
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-gellary-img__text_top-center {    
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-gellary-img__text_top-right {    
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-gellary-img__text_center-left {    
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-gellary-img__text_center-center {    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-gellary-img__text_center-right {    
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-gellary-img__text_bottom-left {    
+    position: absolute;
+    bottom: 5%;
+    right: 0%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-gellary-img__text_bottom-center {    
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sidebar-gellary-img__text_bottom-right {    
+    position: absolute;
+    bottom: 5%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.main-content-block-img {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+
+.main-content-block-img__text {} 
+.main-content-block-img__text_top-left {    
+    position: absolute;
+    top: 5%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+.main-content-block-img__text_top-center {    
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.main-content-block-img__text_top-right {    
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    transform: translate(-50%, -50%);
+}
+.main-content-block-img__text_center-left {    
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+}
+.main-content-block-img__text_center-center {    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.main-content-block-img__text_center-right {    
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translate(-50%, -50%);
+}
+.main-content-block-img__text_bottom-left {    
+    position: absolute;
+    bottom: 5%;
+    right: 0%;
+    transform: translate(-50%, -50%);
+}
+.main-content-block-img__text_bottom-center {    
+    position: absolute;
+    bottom: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.main-content-block-img__text_bottom-right {    
+    position: absolute;
+    bottom: 5%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+
